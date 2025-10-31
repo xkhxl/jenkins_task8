@@ -10,3 +10,6 @@ Build a simple Java Hello World application using Maven in Jenkins.
 
 **Jenkins Console Output**  
   ![Jenkins Console](./screenshots/jenkins-console.png)
+
+**Build Success**  
+  ![Build Success](./screenshots/jenkins-success.png)
